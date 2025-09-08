@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 .section-padding {
-  padding-top: 60px; /* Adjust the value as needed */
-  padding-bottom: 60px; /* Adjust the value as needed */
+  padding-top: 60px; 
+  padding-bottom: 60px; 
 }
