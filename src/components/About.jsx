@@ -27,7 +27,7 @@ const About = () => {
                 transition={{duration:1.5, delay: 0.2}}
                 src={AboutCar} alt="" />
             </div>
-            {/* hero text */}
+           
             <div className='lg:w-1/2  flex flex-col px-8 space-y-4 justify-center '>
                 <motion.h3
                 initial={{opacity:0, x:200}}
