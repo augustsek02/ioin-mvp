@@ -12,7 +12,7 @@ const Hero = () => {
 
             <div className='max-w-7xl  mx-auto'>
                 <div className='flex flex-col  lg:flex-row gap-12 lg:gap-6 lg:items-center lg:justify-center lg:pt-0 pt-12'>
-                    {/* hero text */}
+                   
                     <div className='lg:w-1/2 flex  flex-col px-8 space-y-5 justify-center '>
                         <motion.h3  
                         variants={FadeRight(0.5)}
@@ -61,7 +61,7 @@ const Hero = () => {
                             </div>
                         </motion.div>
                     </div>
-                    {/* hero image */}
+                   
                     <div 
                     className='lg:w-1/2 flex  justify-center'>
                         <motion.img 
