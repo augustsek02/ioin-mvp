@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-padding {
+  padding-top: 60px; /* Adjust the value as needed */
+  padding-bottom: 60px; /* Adjust the value as needed */
+}
