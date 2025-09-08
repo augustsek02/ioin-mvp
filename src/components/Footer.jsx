@@ -8,7 +8,7 @@ const Footer = () => {
         <footer className="bg-muted text-muted-foreground bg-slate-50 ">
             <div className="max-w-7xl mx-auto px-6 py-12">
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-                        {/* Logo and social links */}
+                        
           <div>
             <img src={Logo} alt="IOIN Connect" className="w-32 mb-6" />
             <p className="text-sm leading-relaxed">
