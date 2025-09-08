@@ -20,11 +20,11 @@ const Navbar = () => {
     <div className='bg-slate-50 py-1 fixed top-0 left-0 w-full z-50'>
       <div className='max-w-7xl mx-auto'>
         <div className='flex justify-between items-center px-5 lg:px-0'>
-          {/* logo */}
+         
           <div>
             <img src={Logo} alt="" className='w-24' />
           </div>
-          {/* computer nav */}
+         
           <ul className='md:flex gap-6 font-semibold items-center hidden'>
             <li className='hover:text-blue-500 cursor-pointer transition-all'>Home</li>
             <li className='hover:text-blue-500 cursor-pointer transition-all'>About</li>
